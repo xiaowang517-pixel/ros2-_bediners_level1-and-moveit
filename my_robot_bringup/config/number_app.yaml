@@ -1,0 +1,5 @@
+/number_publisher1:
+  ros__parameters:
+    number: 5
+    period: 0.7
+ 
